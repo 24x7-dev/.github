@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/TD0cVao.png)
+![Banner](https://i.imgur.com/bfMB7Ug.png)
 
 Hey guys glad you found your way here. We are starting our community with programming Discord bots. There are a lot of Youtube, tutorials about various APIs for Node or Py. Unfortunately but hardly anything on Deno and Typescript, I have now made it my goal to create them. The whole thing is done with a relatively new and innovative Discord API wrapper called Discordeno. This is specially designed to handle bots running on a lot of servers thanks to a standalone REST and many other well thought out solutions. Read more here <a href="https://github.com/discordeno/discordeno">Discordeno (v13) Github</a>. || <a href="https://discordeno.mod.land/">Discordeno</a>.
 
