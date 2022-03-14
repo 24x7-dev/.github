@@ -28,11 +28,11 @@ Since there are also no complete guides from starting a bot to hosting the bot a
 <code><img height="20" src="https://i.imgur.com/ybHJYsQ.png"></code>
 
 
-#### Top Repositories
+<!-- #### Top Repositories
 
 <a href="https://github.com/24x7-Development/Discordeno-Beginner-Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=24x7-Development&repo=Discordeno-Beginner-Template&title_color=66fffd&icon_color=ffd700&text_color=2bff00&bg_color=010409&border_color=66fffd" />
-</a>
+</a> -->
 
 [discord]: https://discord.gg/9yUjFtcFqP
 [yt]: https://www.youtube.com/channel/UCYWbRfaKuxioM9CV7oY0UNA
